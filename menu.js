@@ -1,9 +1,8 @@
-
-$(document).ready(function() {
+$("#viewMenu").click(function() {
 
 	Menu.init();
 
-});
+})
 var Menu = (function() {
 	
 	var $container = $( '#rm-container' ),						
