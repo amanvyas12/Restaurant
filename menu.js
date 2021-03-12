@@ -1,4 +1,5 @@
-$("#viewMenu",function() {
+
+$(document).ready(function() {
 
 	Menu.init();
 
